@@ -10,7 +10,7 @@ h4 {
   font-size: 18px;
   font-weight: normal;
   margin-top: 5px;
-  color: #50514F;
+  color: #7D7262;
 }
 
 h2 {
@@ -18,11 +18,11 @@ h2 {
   font-weight: normal;
   margin-top: 5px;
   background-color: #50514F;
-  color: #7D7262;
+  color: #CBD4C2;
   padding: 50px;
   text-align: center;
 }
 
-.content{ color: #CBD4C2;}
+.content{ color: #50514F;}
 
 
