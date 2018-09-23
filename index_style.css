@@ -35,9 +35,16 @@ img {
     opacity: 0.6;
 }
 
-.overlay {
+.overlay1 {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 60%;
+    left: 20%;
     text-align: center;
 }
+.overlay2 {
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    text-align: center;
+}
+
