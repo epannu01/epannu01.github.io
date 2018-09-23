@@ -1,16 +1,20 @@
 body {
   margin: 5px;
-  background-color: #CBD4C2;
+  background-color: #4B93B1;
   font-family: Times, sans-serif;
   font-size: 16px;
-  color: #E8E6E8;
+  color: #CBD4C2;
 }
 
+
 h2 {
-  text-align: center;
-  background-color: #50514F;
+  font-size: 22px;
+  font-weight: normal;
   margin-top: 5px;
+  background-color: #50514F;
+  color: #CBD4C2;
   padding: 20px;
+  text-align: center;
 }
 
 h4 {
