@@ -1,6 +1,6 @@
 body {
   margin: 5px;
-  background-color: #4B93B1;
+  background-color: #CBD4C2;
   font-family: Times, sans-serif;
   font-size: 16px;
   color: #E8E6E8;
@@ -9,18 +9,16 @@ body {
 h2 {
   text-align: center;
   background-color: #50514F;
+  margin-top: 5px;
+  padding: 20px;
 }
 
 h4 {
   color: #CBD4C2;
-}
-
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0; 
-    color: #50514F;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  font-size: 20px;
 }
