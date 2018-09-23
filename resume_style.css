@@ -1,4 +1,5 @@
 body {
+  margin: 10px;
   background-color: #CBD4C2;
   font-family: Times, sans-serif;
   font-size: 14px;
@@ -17,7 +18,7 @@ h2 {
   margin-top: 5px;
   background-color: #50514F;
   color: #CBD4C2;
-  padding: 50px;
+  padding: 20px;
   text-align: center;
 }
 
