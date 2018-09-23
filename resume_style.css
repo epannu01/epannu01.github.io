@@ -1,8 +1,8 @@
 body {
-  margin: 10px;
+  margin: 5px;
   background-color: #CBD4C2;
   font-family: Times, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 
@@ -10,6 +10,7 @@ h4 {
   font-size: 20px;
   font-weight: normal;
   color: #7D7262;
+  text-decoration: underline;
 }
 
 h2 {
@@ -22,7 +23,8 @@ h2 {
   text-align: center;
 }
 
-.content{ color: #50514F;}
-.title{ color: #595146;}
+.content{ color: #50514F; font-size: 14px;}
+.title{ color: #595146; }
+
 
 
