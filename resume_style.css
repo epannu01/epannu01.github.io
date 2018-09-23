@@ -11,14 +11,17 @@ h4 {
   font-weight: normal;
   margin-top: 5px;
   color: #50514F;
+
 }
 
 h2 {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: normal;
   margin-top: 5px;
   background-color: #50514F;
   color: #CBD4C2;
+  padding: 10px;
+  text-align: center;
 }
 
 
