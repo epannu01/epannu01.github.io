@@ -28,7 +28,7 @@ h4 {
 }
 
 a {
-  color: #F2F4EF;
+  color: #E5E5E0;
 }
 
 .opaque_img {
@@ -54,4 +54,5 @@ a {
     left: 20%;
     width: 60px;
     height: 100px;
+    opacity: 0.8;
 }
