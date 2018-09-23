@@ -2,18 +2,18 @@ body {
   margin: 10px;
   background-color: #CBD4C2;
   font-family: Times, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: normal;
   color: #7D7262;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: normal;
   margin-top: 5px;
   background-color: #50514F;
@@ -23,5 +23,6 @@ h2 {
 }
 
 .content{ color: #50514F;}
+.title{ color: #595146;}
 
 
