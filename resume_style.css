@@ -1,15 +1,16 @@
 body {
   margin: 25px;
-  background-color: rgb(240,240,240);
+  background-color: #CBD4C2;
   font-family: Times, sans-serif;
   font-size: 14px;
 }
 
 
-h1 {
+h4 {
   font-size: 14px;
   font-weight: normal;
   margin-top: 5px;
+  color: #50514F;
 }
 
 h2 {
