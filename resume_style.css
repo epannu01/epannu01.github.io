@@ -7,11 +7,10 @@ body {
 
 
 h4 {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
   margin-top: 5px;
   color: #50514F;
-
 }
 
 h2 {
@@ -19,9 +18,11 @@ h2 {
   font-weight: normal;
   margin-top: 5px;
   background-color: #50514F;
-  color: #CBD4C2;
+  color: #7D7262;
   padding: 50px;
   text-align: center;
 }
+
+.content{ color: #CBD4C2;}
 
 
