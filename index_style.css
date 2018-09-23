@@ -8,9 +8,19 @@ body {
 
 h2 {
   text-align: center;
+  background-color: #50514F;
 }
 
 h4 {
   color: #CBD4C2;
 }
 
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+    color: #50514F;
+}
