@@ -1,0 +1,25 @@
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: Times, sans-serif;
+  font-size: 14px;
+}
+
+
+h1 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+
+.left_label { text-align:left; }
+.content { margin-left: 50px; }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
