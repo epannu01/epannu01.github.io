@@ -1,5 +1,4 @@
 body {
-  margin: 25px;
   background-color: #CBD4C2;
   font-family: Times, sans-serif;
   font-size: 14px;
@@ -9,7 +8,6 @@ body {
 h4 {
   font-size: 18px;
   font-weight: normal;
-  margin-top: 5px;
   color: #7D7262;
 }
 
