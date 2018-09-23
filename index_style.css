@@ -31,8 +31,10 @@ a {
   color: #CBD4C2;
 }
 
-img {
+.opaque_img {
     opacity: 0.6;
+    width: "100%";
+    height: "70%";
 }
 
 .overlay1 {
@@ -50,4 +52,6 @@ img {
     position: absolute;
     top: 70%;
     left: 20%;
+    width: 154;
+    height: 200;
 }
