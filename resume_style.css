@@ -3,7 +3,6 @@ body {
   background-color: #4B93B1;
   font-family: Times, sans-serif;
   font-size: 16px;
-  padding-left: 20px;
 }
 
 
@@ -11,6 +10,7 @@ h4 {
   font-size: 18px;
   font-weight: normal;
   color: #3B3B3A;
+  padding-left: 40px;
 }
 
 h2 {
@@ -21,8 +21,9 @@ h2 {
   color: #CBD4C2;
   padding: 20px;
   text-align: center;
+  padding-left: 40px;
 }
 
-.content{ color: #3B3B3A; font-size: 14px;}
-.title{ color: #3B3B3A; }
+.content{ color: #3B3B3A; font-size: 14px; padding-left: 40px;}
+.title{ color: #3B3B3A; padding-left: 40px;}
 .resume { background-color: #F4F4EF;}
