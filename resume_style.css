@@ -23,6 +23,10 @@ h2 {
   text-align: center;
 }
 
+a {
+  color: #F4F4EF;
+}
+
 .content{ color: #4C5049; font-size: 14px;}
 .title{ color: #3B3B3A; }
 .resume { background-color: #F4F4EF;}
