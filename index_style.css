@@ -31,10 +31,12 @@ a {
   color: #F4F4EF;
 }
 
-.opaque_img {
+.background_img {
     opacity: 0.6;
-    width: "100%";
-    height: "70%";
+    width: "90%";
+    height: "60%";
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .overlay1 {
