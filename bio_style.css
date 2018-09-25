@@ -19,5 +19,7 @@ h2 {
   padding-left: 40px; 
   border:5px gray; 
   background-color: #DEDEDA;
-  margin: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px
 }
