@@ -15,4 +15,9 @@ h2 {
   text-align: center;
 }
 
-.bio{padding-left: 40px; border: 1px gray; background-color: #F4F4EF}
+.bio{
+  padding-left: 40px; 
+  border: 1px gray; 
+  background-color: #DEDEDA;
+  margin: 30px;
+}
