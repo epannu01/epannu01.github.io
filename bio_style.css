@@ -5,14 +5,6 @@ body {
   font-size: 16px;
 }
 
-
-h4 {
-  font-size: 18px;
-  font-weight: normal;
-  color: #3B3B3A;
-  padding-bottom: 2px;
-}
-
 h2 {
   font-size: 22px;
   font-weight: normal;
@@ -23,11 +15,4 @@ h2 {
   text-align: center;
 }
 
-a {
-  color: #F4F4EF;
-}
-
-.content{ color: #4C5049; font-size: 14px;}
-.title{ color: #3B3B3A; }
-.resume { background-color: #F4F4EF;}
-.pad_left{padding-left: 40px;}
+.bio{padding-left: 40px; border: 1px gray; background-color: #F4F4EF}
